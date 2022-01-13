@@ -1,8 +1,6 @@
 # License dream team by ka maz
 # project by xepaerZ & kulinarrr
 
-from string import *
-
 def countsymbol(FileName):
     FileREF = open(FileName)
     countletter = len(FileREF.read())

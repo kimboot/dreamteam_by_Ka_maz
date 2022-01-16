@@ -6,12 +6,15 @@ def main(FileName):
 
     FileREF = open(FileName)
     Price = 0
+    Price_dec = int(Price - int(Price))[1:]
+    count_num_dec = 0
     for line in FileREF:
         for c in line:
             if c == "." and not Price == 0:
 
             if c.isdigit() == True:
-                    Price = Price +
+
+
 
 
 if __name__ == "__main__":

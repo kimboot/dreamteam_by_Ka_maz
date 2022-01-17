@@ -5,14 +5,22 @@
 def main(FileName):
 
     FileREF = open(FileName)
-    Price = 0
-    Price_dec = int(Price - int(Price))[1:]
+    Price = ''
+    Price_int = 0
+    Result = 0
+    #Price_dec = int(Price - int(Price))[1:]
     count_num_dec = 0
     for line in FileREF:
         for c in line:
-            if c == "." and not Price == 0:
-
+            if c == '.':
+                Price = ''
             if c.isdigit() == True:
+                Price = Price + c
+                print(int(Price))
+
+
+
+
 
 
 

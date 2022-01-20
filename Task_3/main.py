@@ -40,5 +40,6 @@ def summ_price(Prices):
 def main(FileName):
     summ_price(scan_price(FileName))
 
+
 if __name__ == "__main__":
     main('test.txt')

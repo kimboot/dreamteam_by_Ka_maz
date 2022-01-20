@@ -1,7 +1,7 @@
 # License dream team by ka maz
 # project by xepaerZ & kulinarrr
 #task_4
-
+#i love c#
 numbers = []
 
 def check_number(number_1, number_2):

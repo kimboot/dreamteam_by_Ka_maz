@@ -16,30 +16,33 @@ def scan_price(FileName):
                 AddPrice = True
                 Price = Price + c
             elif AddPrice == True:
-                if len(Price[Price.find('.')::-1]) == 3:
-                    print(len(Price[Price.find('.')::-1]))
-                    print(Price[Price.find('.')::1])
-                    Pennies.append(Price[Price.find('.') + 1::1])
-                    Prices.append(Price[0:Price.find('.')])
-                    Price = ''
-                    AddPrice = False
+                if not Price.find('.') == -1:
+                    if len(Price[Price.rfind('.'):len(Price) - 1]) == 2:
+                        Pennies.append(Price[Price.rfind('.') + 1::1])
+                        Prices.append(Price[0:Price.rfind('.')])
+                        Price = ''
+                        AddPrice = False
+                    else:
+                        Price = ''
+                        AddPrice = False
                 else:
                     Prices.append(Price)
                     Price = ''
                     AddPrice = False
     print(Prices)
+    print(Pennies)
     return Prices
 
 def summ_price(Prices):
     Summ = 0
-    check_price = ''
+    price = 0
     for c in Prices:
-        pass
-
-
+        for j in c:
+            if j == '.':
+                pass
+    print(Summ)
 def main(FileName):
     summ_price(scan_price(FileName))
-
 
 if __name__ == "__main__":
     main('test.txt')

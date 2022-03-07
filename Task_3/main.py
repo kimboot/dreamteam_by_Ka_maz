@@ -23,6 +23,7 @@ def scan_price(FileName):
                         Price = ''
                         AddPrice = False
                     else:
+                        Prices.append(Price)
                         Price = ''
                         AddPrice = False
                 else:
@@ -31,18 +32,21 @@ def scan_price(FileName):
                     AddPrice = False
     print(Prices)
     print(Pennies)
-    return Prices
+    return Prices, Pennies
 
-def summ_price(Prices):
-    Summ = 0
-    price = 0
+def summ_price(Prices, Pennies):
+    Summ = 0.0
     for c in Prices:
-        for j in c:
-            if j == '.':
-                pass
-    print(Summ)
+        Summ = Summ + float(c.replace('.', ''))
+    for c in Pennies:
+        if 10 <= float(c) <= 99:
+            Summ = Summ + (float(c) / 100)
+
+    print("Общая сумма чека: " + f"{Summ:,}")
+
 def main(FileName):
-    summ_price(scan_price(FileName))
+    Prices, Pennies = scan_price(FileName)
+    summ_price(Prices, Pennies)
 
 if __name__ == "__main__":
     main('test.txt')

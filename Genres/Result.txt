@@ -1,0 +1,343 @@
+
+В PREP
+современной ADJF,Qual femn,sing,gent
+России NOUN,inan,femn,Sgtm,Geox sing,gent
+каждый ADJF,Subx,Apro inan,masc,sing,accs
+гражданин NOUN,anim,masc sing,nomn
+имеет VERB,impf,tran sing,3per,pres,indc
+право NOUN,inan,neut sing,accs
+обратиться INFN,perf,intr
+в PREP
+государственные ADJF plur,nomn
+органы NOUN,inan,femn,Sgtm,Geox sing,gent
+власти NOUN,inan,femn sing,gent
+. PNCT
+Для PREP
+большинства NOUN,inan,neut,Sgtm sing,gent
+демократических ADJF plur,gent
+стран NOUN,inan,femn plur,gent
+, PNCT
+общение NOUN,inan,neut sing,accs
+населения NOUN,inan,neut sing,gent
+с PREP
+органами NOUN,inan,masc plur,ablt
+государственной ADJF femn,sing,gent
+власти NOUN,inan,femn sing,gent
+является VERB,impf,intr sing,3per,pres,indc
+наиболее ADVB
+важным ADJF,Qual masc,sing,ablt
+фактором NOUN,inan,masc sing,ablt
+, PNCT
+способствующим PRTF,impf,intr,pres,actv masc,sing,ablt
+усилению NOUN,inan,neut sing,datv
+влияния NOUN,inan,neut sing,gent
+граждан NOUN,anim,masc plur,gent
+на PREP
+принимаемые PRTF,impf,tran,pres,pssv plur,nomn
+решения NOUN,inan,neut sing,gent
+власти NOUN,inan,femn sing,gent
+. PNCT
+Так CONJ
+, PNCT
+обращения NOUN,inan,neut sing,gent
+граждан NOUN,anim,masc plur,gent
+выступают VERB,impf,intr plur,3per,pres,indc
+существенным ADJF,Qual masc,sing,ablt
+аспектом NOUN,inan,masc sing,ablt
+в PREP
+сфере NOUN,inan,femn sing,loct
+государственного ADJF neut,sing,gent
+регулирования NOUN,inan,neut sing,gent
+. PNCT
+Целью NOUN,inan,femn sing,ablt
+статьи NOUN,inan,femn sing,gent
+является VERB,impf,intr sing,3per,pres,indc
+анализ NOUN,inan,masc sing,nomn
+механизма NOUN,inan,masc sing,gent
+организации NOUN,inan,femn sing,gent
+работы NOUN,inan,femn sing,gent
+с PREP
+обращениями NOUN,inan,neut plur,ablt
+граждан NOUN,anim,masc plur,gent
+в PREP
+органах NOUN,inan,masc plur,loct
+государственной ADJF femn,sing,gent
+власти NOUN,inan,femn sing,gent
+на PREP
+примере NOUN,inan,masc sing,loct
+деятельности NOUN,inan,femn sing,gent
+территориальных ADJF plur,gent
+избирательных ADJF,Qual plur,gent
+комиссий NOUN,inan,femn plur,gent
+. PNCT
+Существует VERB,impf,intr sing,3per,pres,indc
+несколько ADVB
+основных ADJF,Qual plur,gent
+видов NOUN,inan,masc plur,gent
+обращения NOUN,inan,neut sing,gent
+граждан NOUN,anim,masc plur,gent
+в PREP
+органы NOUN,inan,masc plur,nomn
+государственной ADJF femn,sing,gent
+власти NOUN,inan,femn sing,gent
+, PNCT
+предусмотренных PRTF,perf,tran,past,pssv plur,gent
+законодательством NOUN,inan,neut sing,ablt
+Российской ADJF femn,sing,gent
+Федерации NOUN,inan,femn sing,gent
+: PNCT
+– PNCT
+предложение NOUN,inan,neut sing,accs
+( PNCT
+обращения NOUN,inan,neut sing,gent
+граждан NOUN,anim,masc plur,gent
+, PNCT
+направленные PRTF,perf,tran,past,pssv,Adjx plur,nomn
+на PREP
+совершенствование NOUN,inan,neut sing,nomn
+работы NOUN,inan,femn sing,gent
+органов NOUN,inan,masc plur,gent
+государственной ADJF femn,sing,gent
+власти NOUN,inan,femn sing,gent
+) PNCT
+; PNCT
+– PNCT
+заявление NOUN,inan,neut sing,accs
+( PNCT
+обращение NOUN,inan,neut sing,nomn
+граждан NOUN,anim,masc plur,gent
+, PNCT
+направленные PRTF,perf,tran,past,pssv,Adjx plur,nomn
+с PREP
+просьбой NOUN,inan,femn sing,ablt
+об PREP Vpre
+удовлетворении NOUN,inan,neut sing,loct
+прав NOUN,inan,neut plur,gent
+и CONJ
+интересов NOUN,anim,masc,Name plur,gent
+гражданина NOUN,anim,masc sing,gent
+) PNCT
+; PNCT
+– PNCT
+жалоба NOUN,inan,femn sing,nomn
+( PNCT
+обращения NOUN,inan,neut sing,gent
+граждан NOUN,anim,masc plur,gent
+, PNCT
+направленные PRTF,perf,tran,past,pssv,Adjx plur,nomn
+из-за PREP
+нарушения NOUN,inan,neut sing,gent
+прав NOUN,inan,neut plur,gent
+и CONJ
+интересов NOUN,inan,masc plur,gent
+гражданина NOUN,anim,femn,Patr sing,nomn
+) PNCT
+. PNCT
+Также PRCL
+обращения NOUN,inan,neut sing,gent
+можно PRED,pres
+классифицировать INFN,perf,tran
+следующим ADJF neut,sing,ablt
+образом NOUN,inan,masc sing,ablt
+: PNCT
+первичные ADJF,Qual plur,nomn
+обращения NOUN,inan,neut sing,gent
+и CONJ
+повторные ADJF,Qual plur,nomn
+. PNCT
+Первичные ADJF,Qual plur,nomn
+– PNCT
+это PRCL
+те ADJF,Subx,Apro,Anph plur,nomn
+, PNCT
+которые ADJF,Subx,Apro,Anph plur,nomn
+впервые ADVB
+поступают VERB,impf,intr plur,3per,pres,indc
+на PREP
+рассмотрение NOUN,inan,neut sing,accs
+в PREP
+данное ADJF,Apro neut,sing,nomn
+учреждение NOUN,inan,neut sing,nomn
+. PNCT
+Также PRCL
+это PRCL
+обращения NOUN,inan,neut sing,gent
+, PNCT
+поступившие PRTF,perf,intr,past,actv plur,nomn
+от PREP
+лиц NOUN,anim,neut plur,gent
+, PNCT
+которые ADJF,Subx,Apro,Anph plur,nomn
+ранее ADVB
+не PRCL
+обращались VERB,impf,intr plur,past,indc
+в PREP
+данный ADJF,Apro inan,masc,sing,accs
+орган PRTS,perf,past,pssv masc,sing
+по PREP
+уже ADVB
+рассмотренному PRTF,perf,tran,past,pssv neut,sing,datv
+запросу NOUN,inan,masc sing,datv
+. PNCT
+Повторные ADJF,Qual plur,nomn
+– PNCT
+это PRCL
+те ADJF,Subx,Apro,Anph plur,nomn
+, PNCT
+что CONJ
+поступили VERB,perf,intr plur,past,indc
+от PREP
+одного ADJF,Apro,Anum neut,sing,gent
+определённого ADJF masc,sing,gent
+лица NOUN,anim,neut sing,gent
+по PREP
+определенному ADJF,Qual masc,sing,datv
+вопросу NOUN,inan,masc sing,datv
+, PNCT
+в PREP
+котором ADJF,Subx,Apro,Anph masc,sing,loct
+данное ADJF,Apro neut,sing,nomn
+лицо NOUN,inan,neut sing,accs
+хочет VERB,impf,tran sing,3per,pres,indc
+обжаловать INFN,perf,tran
+решение NOUN,inan,neut sing,accs
+, PNCT
+принятое PRTF,perf,tran,past,pssv neut,sing,nomn
+по PREP
+предыдущему ADJF masc,sing,datv
+вопросу NOUN,inan,masc sing,datv
+, PNCT
+поступившему PRTF,perf,intr,past,actv masc,sing,datv
+в PREP
+то CONJ
+же PRCL
+учреждение NOUN,inan,neut sing,nomn
+. PNCT
+– PNCT
+8 NUMB,intg
+– PNCT
+Каждый ADJF,Subx,Apro inan,masc,sing,accs
+гражданин NOUN,anim,masc sing,nomn
+может VERB,impf,intr sing,3per,pres,indc
+подавать INFN,impf,tran
+обращения NOUN,inan,neut sing,gent
+как CONJ
+индивидуально ADVB
+, PNCT
+так CONJ
+и CONJ
+коллективно ADVB
+. PNCT
+Типы NOUN,inan,masc plur,nomn
+документов NOUN,inan,masc plur,gent
+, PNCT
+в PREP
+которых ADJF,Subx,Apro,Anph plur,gent
+обращение NOUN,inan,neut sing,nomn
+двух NUMR gent
+или CONJ
+более ADVB
+граждан NOUN,anim,masc plur,gent
+: PNCT
+– PNCT
+коллективные ADJF plur,nomn
+обращения NOUN,inan,neut sing,gent
+; PNCT
+– PNCT
+петиции NOUN,inan,femn plur,accs
+( PNCT
+обращения NOUN,inan,neut sing,gent
+граждан NOUN,anim,masc plur,gent
+, PNCT
+направленные PRTF,perf,tran,past,pssv,Adjx plur,nomn
+с PREP
+требованием NOUN,inan,neut sing,ablt
+проведения NOUN,inan,neut sing,gent
+общественных ADJF plur,gent
+реформ NOUN,inan,femn plur,gent
+или CONJ
+частичного ADJF,Qual masc,sing,gent
+изменения NOUN,inan,neut plur,nomn
+законодательства NOUN,inan,neut sing,gent
+) PNCT
+. PNCT
+Также PRCL
+появился VERB,perf,intr masc,sing,past,indc
+новый ADJF,Qual masc,sing,nomn
+термин NOUN,inan,masc sing,nomn
+« PNCT
+электронные ADJF inan,plur,accs
+» PNCT
+обращения NOUN,inan,neut sing,gent
+– PNCT
+это PRCL
+поступившее PRTF,perf,intr,past,actv neut,sing,nomn
+в PREP
+государственный ADJF masc,sing,nomn
+орган NOUN,inan,masc sing,nomn
+обращение NOUN,inan,neut sing,nomn
+граждан NOUN,anim,masc plur,gent
+, PNCT
+по PREP
+информационным ADJF masc,sing,ablt
+системам NOUN,inan,femn plur,datv
+общего ADJF neut,sing,gent
+пользования NOUN,inan,neut sing,gent
+, PNCT
+которое ADJF,Subx,Apro,Anph neut,sing,nomn
+подлежит VERB,impf,intr sing,3per,pres,indc
+рассмотрению NOUN,inan,neut sing,datv
+в PREP
+установленном PRTF,perf,tran,past,pssv masc,sing,loct
+Федеральным ADJF masc,sing,ablt
+законом NOUN,inan,masc sing,ablt
+порядке NOUN,inan,masc sing,loct
+. PNCT
+Обращения NOUN,inan,neut sing,gent
+граждан NOUN,anim,masc plur,gent
+способствуют VERB,impf,intr plur,3per,pres,indc
+повышению NOUN,inan,neut sing,datv
+контроля NOUN,inan,masc sing,gent
+народа NOUN,inan,masc sing,gent
+за PREP
+деятельностью NOUN,inan,femn sing,ablt
+государственных ADJF plur,gent
+органов NOUN,inan,masc plur,gent
+и CONJ
+органов NOUN,inan,masc plur,gent
+местного ADJF,Qual neut,sing,gent
+самоуправления NOUN,inan,neut sing,gent
+, PNCT
+борьбе NOUN,inan,femn,Sgtm sing,loct
+с PREP
+бюрократизмом NOUN,inan,masc sing,ablt
+, PNCT
+коррупцией NOUN,inan,femn plur,gent
+волокитой NOUN,inan,femn sing,ablt
+и CONJ
+другими ADJF,Subx,Apro plur,ablt
+недостатками NOUN,inan,masc plur,ablt
+в PREP
+их NPRO,3per,Anph plur,accs
+работе NOUN,inan,femn sing,loct
+. PNCT
+Органы NOUN,inan,masc plur,nomn
+государственной ADJF femn,sing,gent
+власти NOUN,inan,femn sing,gent
+обязаны PRTS,perf,past,pssv plur
+в PREP
+установленном PRTF,perf,tran,past,pssv masc,sing,loct
+порядке NOUN,inan,masc sing,loct
+и CONJ
+сроки NOUN,inan,masc plur,accs
+рассмотреть INFN,perf,tran
+обращения NOUN,inan,neut sing,gent
+граждан NOUN,anim,masc plur,gent
+и CONJ
+принять INFN,perf,tran
+законные ADJF,Qual inan,plur,accs
+решения NOUN,inan,neut sing,gent
+при PREP
+их NPRO,3per,Anph plur,accs
+рассмотрении NOUN,inan,neut sing,loct
+. PNCT
